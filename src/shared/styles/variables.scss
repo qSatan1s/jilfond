@@ -1,0 +1,13 @@
+:root {
+  --s-indent: 50px;
+  --s-container: calc(1400px + (var(--s-indent) * 2));
+
+  --c-text: #333333;
+  --c-value: #76787D;
+  --c-primary: #E31F24;
+
+
+  --s-border-radius: 10px;
+  --s-border-color: #DEDEDD;
+  --sd-default: 0px 0px 10px 0px #0000001A;
+}
